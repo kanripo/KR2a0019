@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:20:27.913798
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0019_WYG_002-1a>¶
 欽定四庫全書¶
 　陳書卷二¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　陳書卷二¶
+#+PROPERTY: JUAN 卷二考證
 <pb:KR2a0019_WYG_002-15a>¶
 　陳書卷二考證¶
 高祖紀下輿駕幸大莊嚴寺設無㝵大會○宋書㝵同¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　陳書卷二考證¶
-

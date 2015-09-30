@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:20:28.345078
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR2a0019_WYG_027-1a>¶
 欽定四庫全書¶
 　陳書卷二十七¶
@@ -290,6 +292,7 @@
 　¶
 　¶
 　陳書卷二十七¶
+#+PROPERTY: JUAN 卷二十七考證
 <pb:KR2a0019_WYG_027-17a>¶
 　陳書卷二十七考證¶
 江總傳藴大禹之金書鐫暴秦之在字○在字疑誤¶
@@ -308,4 +311,3 @@
 　¶
 　¶
 　陳書卷二十七考證¶
-

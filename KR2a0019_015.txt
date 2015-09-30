@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:20:28.136138
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0019_WYG_015-1a>¶
 欽定四庫全書¶
 　陳書卷十五¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　陳書卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR2a0019_WYG_015-6a>¶
 　陳書卷十五考證¶
 陳慧紀傳增邑并前二千五百戸○增各本誤贈今改¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　陳書卷十五考證¶
-

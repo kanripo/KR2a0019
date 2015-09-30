@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:20:28.150783
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR2a0019_WYG_016-1a>¶
 欽定四庫全書¶
 　陳書卷十六¶
@@ -236,6 +238,7 @@
 師知博渉多通而闇於機變雖欲存乎節義終陷極刑¶
 斯不智矣¶
 　陳書卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR2a0019_WYG_016-14a>¶
 　陳書卷十六考證¶
 趙知禮傳子允恭嗣○允南史作元¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　陳書卷十六考證¶
-

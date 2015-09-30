@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:20:28.079226
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR2a0019_WYG_012-1a>¶
 欽定四庫全書¶
 　陳書卷十二¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　陳書卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR2a0019_WYG_012-12a>¶
 　陳書卷十二考證¶
 杜稜傳髙祖誅王僧辯○誅字上南史有謀字¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　陳書卷十二考證¶
-

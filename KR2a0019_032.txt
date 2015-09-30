@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:20:28.452067
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR2a0019_WYG_032-1a>¶
 欽定四庫全書¶
 　陳書卷三十二¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　陳書卷三十二¶
+#+PROPERTY: JUAN 卷三十二考證
 <pb:KR2a0019_WYG_032-12a>¶
 　陳書卷三十二考證¶
 殷不害𫝊祖任齊豫章王行參軍○任南史作汪¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　陳書卷三十二考證¶
-

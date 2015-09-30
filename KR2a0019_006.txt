@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:20:27.977982
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR2a0019_WYG_006-1a>¶
 欽定四庫全書¶
 　陳書卷六¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　陳書卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR2a0019_WYG_006-21a>¶
 　陳書卷六考證¶
 後主紀丁卯立弟叔重為始興王奉昭烈王祀○重一¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　陳書卷六考證¶
-

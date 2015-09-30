@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:20:28.499053
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR2a0019_WYG_034-1a>¶
 欽定四庫全書¶
 　陳書卷三十四¶
@@ -434,6 +436,7 @@
 著美焉¶
 　¶
 　陳書卷三十四¶
+#+PROPERTY: JUAN 卷三十四考證
 <pb:KR2a0019_WYG_034-25a>¶
 　陳書卷三十四考證¶
 江徳藻𫝊○藻一本作操¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　陳書卷三十四考證¶
-

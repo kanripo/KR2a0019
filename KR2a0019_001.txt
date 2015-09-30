@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:20:27.885396
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR2a0019_WYG_001-1a>¶
 欽定四庫全書¶
 　陳書卷一¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　陳書卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR2a0019_WYG_001-34a>¶
 　陳書卷一考證¶
 高祖紀上吳興長城下若里人○若監本誤春一統志¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　陳書卷一考證¶
-

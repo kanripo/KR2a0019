@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:20:27.992517
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0019_WYG_007-1a>¶
 欽定四庫全書¶
 　陳書卷七¶
@@ -182,6 +184,7 @@
 懿焉¶
 　¶
 　陳書卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0019_WYG_007-11a>¶
 　陳書卷七考證¶
 髙祖宣皇后章氏傳后母蘇○后監本誤後今改正¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　陳書卷七考證¶
-

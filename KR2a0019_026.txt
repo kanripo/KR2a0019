@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳書
-#+DATE: 2015-09-23 09:41:47
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:20:28.319635
+#+PROPERTY: ID KR2a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR2a0019_WYG_026-1a>¶
 欽定四庫全書¶
 　陳書卷二十六¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　陳書卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR2a0019_WYG_026-20a>¶
 　陳書卷二十六考證¶
 徐陵傳述所製莊子義○義一本誤二¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　陳書卷二十六考證¶
-
